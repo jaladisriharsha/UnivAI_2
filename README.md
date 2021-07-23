@@ -1,1 +1,1 @@
-# UnivAI_2
+# UnivAI_2 Hackathon
